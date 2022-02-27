@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic__random2.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_add_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_baseline_local_police_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_exit_to_app_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_favorite_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_heart_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_random.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_robot.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_robot__1_.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_save_alt_24.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_up_chevron.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/drawable/ic_up_chevron__2_.xml" value="0.21770833333333334" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/layout/activity_display_image.xml" value="0.2015625" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/layout/header.xml" value="0.2015625" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/layout/item.xml" value="0.2015625" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/menu/drawer_menu.xml" value="0.2015625" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/menu/toolbar_menu.xml" value="0.2015625" />
+        <entry key="..\:/My_fayl/Obscule/app/src/main/res/xml/provider_paths.xml" value="0.2015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

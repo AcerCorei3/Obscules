@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855449539185",
+    "project_id": "obscule-d20dd",
+    "storage_bucket": "obscule-d20dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855449539185:android:f6ceb83a5e1f65fa7501d0",
+        "android_client_info": {
+          "package_name": "com.example.obscule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855449539185-hrvq9ref0dfir2h2cc1dkebhs3ebduu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSR6dIt6vjg8hTf8xkFzgHv9RbScwQe-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855449539185-hrvq9ref0dfir2h2cc1dkebhs3ebduu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
